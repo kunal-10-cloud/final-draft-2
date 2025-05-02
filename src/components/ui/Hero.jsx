@@ -29,7 +29,6 @@ const Hero = () => {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="inline-block mb-6 px-5 py-2 rounded-full bg-primary/10 border border-primary/20"
             >
-              <span className="text-primary font-medium">🎉 Premium Fashion</span>
             </motion.div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
               Discover <span className="bg-gradient-to-r from-primary to-purple-400 bg-clip-text text-transparent">Exclusive</span> Style
